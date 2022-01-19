@@ -2,16 +2,30 @@
   "cart": [
     {
       "id": 1,
-      "name": "Avery's Sandwich",
+      "name": "Steven's sandwich",
       "bread": "Sourdough",
       "ingredients": [
         "Cheddar Cheese",
         "Mayo",
-        "Ham",
         "Bacon",
         "Lettuce",
         "Tomatoes"
       ]
+    },
+    {
+      "id": 4,
+      "name": "good sammich",
+      "bread": "Wheat",
+      "ingredients": [
+        "Ham",
+        "Bacon"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "good sammich",
+      "bread": "Gluten Free",
+      "ingredients": []
     }
   ],
   "ingredients": [
